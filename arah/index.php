@@ -12,7 +12,7 @@
 <body>
 	<div class="wrap">
 		<div class="header">			
-			<h1>Halaman Admin</h1>
+			<h1>Halaman Admin Harisa</h1>
 		</div>
 </head>
 <body>
