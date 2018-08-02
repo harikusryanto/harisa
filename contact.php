@@ -74,10 +74,10 @@
 				</div>
 				<div class="col-xs-5 text-left menu-1">
 					<ul>
-						<li class="active"><a href="blog.html">Blog</a></li>
+						<li><a href="blog.html">Blog</a></li>
 						<li class="has-dropdown">
 
-						<li><a href="contact.html">Contact</a></li>
+						<li class="active"><a href="contact.html">Contact</a></li>
 					</ul>
 				</div>
 			</div>
