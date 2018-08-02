@@ -66,7 +66,7 @@
 					<ul>
 						<li><a href="galery.html">Galery</a></li>
 						<li><a href="about.html">About</a></li>
-							<a href="video.html">Services</a>
+							<a href="services.html">Services</a>
 				
 				</div>
 				<div class="col-xs-2 text-center">
@@ -74,10 +74,10 @@
 				</div>
 				<div class="col-xs-5 text-left menu-1">
 					<ul>
-						<li><a href="blog.html">Blog</a></li>
+						<a href="blog.html">Blog</a></li>
 						<li class="has-dropdown">
 
-						<li class="active"><a href="contact.html">Contact</a></li>
+						<li class="active"><a href="contact.php">Contact</a></li>
 					</ul>
 				</div>
 			</div>
@@ -93,7 +93,7 @@
 					<div class="display-t">
 						<div class="display-tc animate-box" data-animate-effect="fadeIn">
 							<h1>Contact Us</h1>
-							<h2>Free html5 templates Made by <a href="http://freehtml5.co" target="_blank">freehtml5.co</a></h2>
+							
 						</div>
 					</div>
 				</div>
@@ -159,7 +159,7 @@
 
 	<div id="map" class="fh5co-map"></div>
 
-	<form action="contact.html" method="post">
+	<form action="contact.php" method="post">
 	<div id="fh5co-started">
 		<div class="container">
 			<div class="row animate-box">
@@ -219,7 +219,7 @@
 
 						<li><a href="#">Contact</a></li>
 
-						<p class="button"><a href="contact.html">
+						<p class="button"><a href="contact.php">
 
 
 						
