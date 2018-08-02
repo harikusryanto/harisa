@@ -64,34 +64,19 @@
 			<div class="row">
 				<div class="col-xs-5 text-right menu-1">
 					<ul>
-						<li class="active"><a href="work.html">Work</a></li>
+						<li><a href="galery.html">Galery</a></li>
 						<li><a href="about.html">About</a></li>
-						<li class="has-dropdown">
 							<a href="services.html">Services</a>
-							<ul class="dropdown">
-								<li><a href="#">Web Design</a></li>
-								<li><a href="#">eCommerce</a></li>
-								<li><a href="#">Branding</a></li>
-								<li><a href="#">API</a></li>
-							</ul>
-						</li>
-					</ul>
+				
 				</div>
 				<div class="col-xs-2 text-center">
-					<div id="fh5co-logo"><a href="index.html">Orange.</a></div>
+					<div id="fh5co-logo"><a href="index.html">Beranda.</a></div>
 				</div>
 				<div class="col-xs-5 text-left menu-1">
 					<ul>
-						<li><a href="blog.html">Blog</a></li>
+						<li class="active"><a href="blog.html">Blog</a></li>
 						<li class="has-dropdown">
-							<a href="#">Tools</a>
-							<ul class="dropdown">
-								<li><a href="#">HTML5</a></li>
-								<li><a href="#">CSS3</a></li>
-								<li><a href="#">Sass</a></li>
-								<li><a href="#">jQuery</a></li>
-							</ul>
-						</li>
+
 						<li><a href="contact.html">Contact</a></li>
 					</ul>
 				</div>
@@ -100,14 +85,14 @@
 		</div>
 	</nav>
 
-	<header id="fh5co-header" class="fh5co-cover fh5co-cover-sm" role="banner" style="background-image:url(images/img_bg_2.jpg);">
+	<header id="fh5co-header" class="fh5co-cover fh5co-cover-sm" role="banner" style="background-image:url(images/20.jpg);">
 		<div class="overlay"></div>
 		<div class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2 text-center">
 					<div class="display-t">
 						<div class="display-tc animate-box" data-animate-effect="fadeIn">
-							<h1>Our Works</h1>
+							<h1>Contact Us</h1>
 							<h2>Free html5 templates Made by <a href="http://freehtml5.co" target="_blank">freehtml5.co</a></h2>
 						</div>
 					</div>
@@ -116,74 +101,70 @@
 		</div>
 	</header>
 
-	<div id="fh5co-project">
+	<div id="fh5co-contact">
 		<div class="container">
 			<div class="row">
-				<div class="col-md-4 col-sm-6 fh5co-project animate-box" data-animate-effect="fadeIn">
-					<a href="#"><img src="images/work-1.jpg" alt="Free HTML5 Website Template by FreeHTML5.co" class="img-responsive">
-						<h3>Sea</h3>
-						<span>Web Design</span>
-					</a>
+				<div class="col-md-5 col-md-push-1 animate-box">
+					
+					<div class="fh5co-contact-info">
+						<h3>Contact Information</h3>
+						<ul>
+							<li class="address">198 West 21th Street, <br> Suite 721 New York NY 10016</li>
+							<li class="phone"><a href="tel://1234567920">+ 1235 2355 98</a></li>
+							<li class="email"><a href="mailto:info@yoursite.com">info@yoursite.com</a></li>
+							<li class="url"><a href="http://FreeHTML5.co">FreeHTML5.co</a></li>
+						</ul>
+					</div>
+
 				</div>
-				<div class="col-md-4 col-sm-6 fh5co-project animate-box" data-animate-effect="fadeIn">
-					<a href="#"><img src="images/work-2.jpg" alt="Free HTML5 Website Template by FreeHTML5.co" class="img-responsive">
-						<h3>Nature</h3>
-						<span>Application</span>
-					</a>
-				</div>
-				<div class="col-md-4 col-sm-6 fh5co-project animate-box" data-animate-effect="fadeIn">
-					<a href="#"><img src="images/work-3.jpg" alt="Free HTML5 Website Template by FreeHTML5.co" class="img-responsive">
-						<h3>Green Island</h3>
-						<span>Branding</span>
-					</a>
-				</div>
-				<div class="col-md-4 col-sm-6 fh5co-project animate-box" data-animate-effect="fadeIn">
-					<a href="#"><img src="images/work-4.jpg" alt="Free HTML5 Website Template by FreeHTML5.co" class="img-responsive">
-						<h3>Workspace</h3>
-						<span>Web Design</span>
-					</a>
-				</div>
-				<div class="col-md-4 col-sm-6 fh5co-project animate-box" data-animate-effect="fadeIn">
-					<a href="#"><img src="images/work-5.jpg" alt="Free HTML5 Website Template by FreeHTML5.co" class="img-responsive">
-						<h3>Nature</h3>
-						<span>Application</span>
-					</a>
-				</div>
-				<div class="col-md-4 col-sm-6 fh5co-project animate-box" data-animate-effect="fadeIn">
-					<a href="#"><img src="images/work-6.jpg" alt="Free HTML5 Website Template by FreeHTML5.co" class="img-responsive">
-						<h3>Green Island</h3>
-						<span>Branding</span>
-					</a>
-				</div>
-				<div class="col-md-4 col-sm-6 fh5co-project animate-box" data-animate-effect="fadeIn">
-					<a href="#"><img src="images/work-1.jpg" alt="Free HTML5 Website Template by FreeHTML5.co" class="img-responsive">
-						<h3>Sea</h3>
-						<span>Web Design</span>
-					</a>
-				</div>
-				<div class="col-md-4 col-sm-6 fh5co-project animate-box" data-animate-effect="fadeIn">
-					<a href="#"><img src="images/work-2.jpg" alt="Free HTML5 Website Template by FreeHTML5.co" class="img-responsive">
-						<h3>Nature</h3>
-						<span>Application</span>
-					</a>
-				</div>
-				<div class="col-md-4 col-sm-6 fh5co-project animate-box" data-animate-effect="fadeIn">
-					<a href="#"><img src="images/work-3.jpg" alt="Free HTML5 Website Template by FreeHTML5.co" class="img-responsive">
-						<h3>Green Island</h3>
-						<span>Branding</span>
-					</a>
+				<div class="col-md-6 animate-box">
+					<h3>Get In Touch</h3>
+					<form action="insert_komen.php" method="post">
+						<div class="row form-group">
+							<div class="col-md-6">
+								<!-- <label for="fname">First Name</label> -->
+								<input type="text" name="name" class="form-control" placeholder="Nama Anda">
+							</div>
+						</div>
+						<div class="row form-group">
+							<div class="col-md-12">
+								<!-- <label for="email">Email</label> -->
+								<input type="text" name="email" class="form-control" placeholder="Masukan Email">
+							</div>
+						</div>
+
+						<div class="row form-group">
+							<div class="col-md-12">
+								<!-- <label for="subject">Subject</label> -->
+								<input type="text" id="subject" name="subject" class="form-control" placeholder="Subject">
+							</div>
+						</div>
+
+						<div class="row form-group">
+							<div class="col-md-12">
+								<!-- <label for="message">Message</label> -->
+								<textarea name="pesan" id="pesan" cols="30" rows="10" class="form-control" placeholder="Komentar"></textarea>
+							</div>
+						</div>
+						<div class="form-group">
+							<input type="submit" name="submit" value="Send Message" class="btn btn-primary">
+						</div>
+
+					</form>		
 				</div>
 			</div>
+			
 		</div>
 	</div>
 
+	<div id="map" class="fh5co-map"></div>
 
+	<form action="contact.html" method="post">
 	<div id="fh5co-started">
 		<div class="container">
 			<div class="row animate-box">
 				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
-					<h2>Lets Get Started</h2>
-					<p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius.</p>
+					<h2>Pemesanan Di Sini</h2>
 				</div>
 			</div>
 			<div class="row animate-box">
@@ -204,44 +185,58 @@
 				<div class="col-md-2 col-sm-4 col-xs-6">
 					<ul class="fh5co-footer-links">
 						<li><a href="#">About</a></li>
-						<li><a href="#">Help</a></li>
+						<p class="button"><a href="about.html">
+
+						<li><a href="#">Galery</a></li>
+						<p class="button"><a href="galery.html">
+
+						
+					</ul>
+				</div>
+
+				<div class="col-md-2 col-sm-4 col-xs-6">
+					<ul class="fh5co-footer-links">
+
+
+						<li><a href="#">Beranda</a></li>
+						<p class="button"><a href="index.html">
+
+						<li><a href="#">Cervices</a></li>
+						<p class="button"><a href="cervices.html">
+
+						
+
+					
+					</ul>
+				</div>
+
+				<div class="col-md-2 col-sm-4 col-xs-6">
+					<ul class="fh5co-footer-links">
+						
+						<li><a href="#">Blog</a></li>
+						
+						<p class="button"><a href="blog.html">
+
 						<li><a href="#">Contact</a></li>
-						<li><a href="#">Terms</a></li>
-						<li><a href="#">Meetups</a></li>
-					</ul>
-				</div>
 
-				<div class="col-md-2 col-sm-4 col-xs-6">
-					<ul class="fh5co-footer-links">
-						<li><a href="#">Shop</a></li>
-						<li><a href="#">Privacy</a></li>
-						<li><a href="#">Testimonials</a></li>
-						<li><a href="#">Handbook</a></li>
-						<li><a href="#">Held Desk</a></li>
-					</ul>
-				</div>
+						<p class="button"><a href="contact.html">
 
-				<div class="col-md-2 col-sm-4 col-xs-6">
-					<ul class="fh5co-footer-links">
-						<li><a href="#">Find Designers</a></li>
-						<li><a href="#">Find Developers</a></li>
-						<li><a href="#">Teams</a></li>
-						<li><a href="#">Advertise</a></li>
-						<li><a href="#">API</a></li>
+
+						
 					</ul>
 				</div>
 				<div class="col-md-4 col-sm-12 col-xs-12 fh5co-widget col-md-push-1">
-					<h3>A Little About Orange</h3>
-					<p>Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit. Eos cumque dicta adipisci architecto culpa amet.</p>
-					<p><a href="#">Learn More</a></p>
+					<h3>Harisa Wedding</h3>
+					<p> Kami akan membaut hari bahagia anda menjadi lebih indah.</p>
+					
 				</div>
 			</div>
 
 			<div class="row copyright">
 				<div class="col-md-12 text-center">
 					<p>
-						<small class="block">&copy; 2016 Free HTML5. All Rights Reserved.</small> 
-						<small class="block">Designed by <a href="http://freehtml5.co/" target="_blank">FreeHTML5.co</a> Demo Images: <a href="http://unsplash.com/" target="_blank">Unsplash</a></small>
+						<small class="block">&copy; Harisa Wedding.</small> 
+						<small class="block"> <a href="http://freehtml5.co/" target="_blank"></a>  <a href="http://unsplash.com/" target="_blank"></a></small>
 					</p>
 					<p>
 						<ul class="fh5co-social-icons">
