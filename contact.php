@@ -66,7 +66,7 @@
 					<ul>
 						<li><a href="galery.html">Galery</a></li>
 						<li><a href="about.html">About</a></li>
-							<a href="services.html">Services</a>
+							<a href="video.html">Services</a>
 				
 				</div>
 				<div class="col-xs-2 text-center">
