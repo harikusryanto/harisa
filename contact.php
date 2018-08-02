@@ -66,7 +66,7 @@
 					<ul>
 						<li><a href="galery.html">Galery</a></li>
 						<li><a href="about.html">About</a></li>
-							<a href="services.html">Services</a>
+							<a href="video.html">Video</a>
 				
 				</div>
 				<div class="col-xs-2 text-center">
@@ -74,17 +74,16 @@
 				</div>
 				<div class="col-xs-5 text-left menu-1">
 					<ul>
-						<a href="blog.html">Blog</a></li>
+						<li><a href="blog.html">Blog</a></li>
 						<li class="has-dropdown">
 
-						<li class="active"><a href="contact.php">Contact</a></li>
+						<li class=" active"><a href="contact.php">Contact</a></li>
 					</ul>
 				</div>
 			</div>
 			
 		</div>
 	</nav>
-
 	<header id="fh5co-header" class="fh5co-cover fh5co-cover-sm" role="banner" style="background-image:url(images/20.jpg);">
 		<div class="overlay"></div>
 		<div class="container">
@@ -107,12 +106,12 @@
 				<div class="col-md-5 col-md-push-1 animate-box">
 					
 					<div class="fh5co-contact-info">
-						<h3>Contact Information</h3>
+						<h3>Hubungi Kami</h3>
 						<ul>
-							<li class="address">198 West 21th Street, <br> Suite 721 New York NY 10016</li>
+							<li class="address">Jl.SumberSari, <br> Politeknik Caltex Riau</li>
 							<li class="phone"><a href="tel://1234567920">+ 1235 2355 98</a></li>
-							<li class="email"><a href="mailto:info@yoursite.com">info@yoursite.com</a></li>
-							<li class="url"><a href="http://FreeHTML5.co">FreeHTML5.co</a></li>
+							<li class="email"><a href="mailto:info@yoursite.com">Mahasiswa.pcr.ac.id</a></li>
+							<li class="url"><a href="http://FreeHTML5.co">Harisa.com</a></li>
 						</ul>
 					</div>
 
