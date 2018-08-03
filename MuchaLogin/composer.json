@@ -1,0 +1,6 @@
+{
+    "name": "asus/mucha-login",
+    "require": {
+        "google/apiclient": "^2.2"
+    }
+}
