@@ -26,8 +26,8 @@ $pdf->Cell(25,6,'PAKET',1,1);
 $pdf->SetFont('Arial','',10);
 
 include 'koneksi.php';
-$harisa = mysqli_query($connect, "select * from harisa");
-while ($row = mysqli_fetch_array($harisa)){
+$wedding = mysqli_query($connect, "select * from wedding");
+while ($row = mysqli_fetch_array($wedding)){
     $pdf->Cell(20,6,$row['id'],1,0);
     $pdf->Cell(85,6,$row['nama_lengkap'],1,0);
     $pdf->Cell(27,6,$row['alamat'],1,0);

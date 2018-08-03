@@ -24,7 +24,8 @@
 	<div class="navbar-collapse collapse">							
 					<div class="menu">
 						<ul class="nav nav-tabs" role="tablist">
-							<li role="presentation"><a href="../admin_komentar/index.php" class="active">Halaman Komentar</a></li>				
+							<li role="presentation"><a href="../admin_komentar/index.php" class="active">Halaman Komentar</a></li>
+							<li role="presentation"><a href="../phpfpdf/index.php" class="active">PDF</a></li>					
 						</ul>
 					</div>
 				</div>		
